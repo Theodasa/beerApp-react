@@ -4,7 +4,7 @@ function Header(props) {
   return (
     <div className="nav">
       <div onClick={() => props.loadBeers()} className="logo">
-        Beans Love Beer
+        Goldberg
       </div>
       <ul>
         <li>Home</li>
