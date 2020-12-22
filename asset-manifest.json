@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/beerApp-react/static/css/main.3551287f.chunk.css",
-    "main.js": "/beerApp-react/static/js/main.3409c535.chunk.js",
-    "main.js.map": "/beerApp-react/static/js/main.3409c535.chunk.js.map",
+    "main.css": "/beerApp-react/static/css/main.2fb7b470.chunk.css",
+    "main.js": "/beerApp-react/static/js/main.e510a8f9.chunk.js",
+    "main.js.map": "/beerApp-react/static/js/main.e510a8f9.chunk.js.map",
     "runtime-main.js": "/beerApp-react/static/js/runtime-main.a4a24873.js",
     "runtime-main.js.map": "/beerApp-react/static/js/runtime-main.a4a24873.js.map",
     "static/js/2.496f5314.chunk.js": "/beerApp-react/static/js/2.496f5314.chunk.js",
     "static/js/2.496f5314.chunk.js.map": "/beerApp-react/static/js/2.496f5314.chunk.js.map",
     "index.html": "/beerApp-react/index.html",
-    "static/css/main.3551287f.chunk.css.map": "/beerApp-react/static/css/main.3551287f.chunk.css.map",
+    "static/css/main.2fb7b470.chunk.css.map": "/beerApp-react/static/css/main.2fb7b470.chunk.css.map",
     "static/js/2.496f5314.chunk.js.LICENSE.txt": "/beerApp-react/static/js/2.496f5314.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a4a24873.js",
     "static/js/2.496f5314.chunk.js",
-    "static/css/main.3551287f.chunk.css",
-    "static/js/main.3409c535.chunk.js"
+    "static/css/main.2fb7b470.chunk.css",
+    "static/js/main.e510a8f9.chunk.js"
   ]
 }
