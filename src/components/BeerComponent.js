@@ -3,6 +3,7 @@ import React, { useState } from "react";
 const BeerComponent = ({ image_url, name, description }) => {
   const [bookmarked, setBookmarked] = useState(false);
 
+  const fetchname = (data) => data.substring(0, 35);
   const fetchdes = (data) => data.substring(0, 110) + "...";
   const controlBookmark = () => {
     if (bookmarked) {
@@ -21,7 +22,7 @@ const BeerComponent = ({ image_url, name, description }) => {
       <i onClick={() => controlBookmark()} className={cl}></i>
       <img src={image_url} alt="" />
       <div className="description">
-        <h3 className="title">{name.toString()}</h3>
+        <h3 className="title">{fetchname(name.toString())}</h3>
         <p>{fetchdes(description.toString())}</p>
       </div>
     </div>
