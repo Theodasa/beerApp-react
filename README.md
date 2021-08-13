@@ -29,5 +29,6 @@ Built with:
    ```bash
    npm run build
    ```
-   ## Author
-Adeyemi Kolade
+ 
+## Author
+Adeyemi Kolade(2020)
