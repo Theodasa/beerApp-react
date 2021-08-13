@@ -27,6 +27,7 @@ Built with:
 1. Builds the app for production to the build folder.
 
    ```bash
-  npm run build
+   npm run build
    ```
-   
+   ## Author
+Adeyemi Kolade
